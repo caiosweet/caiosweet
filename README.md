@@ -18,17 +18,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm not a programmer 😄
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosweet&hide=TeX&layout=compact&theme=gotham" alt="caiosweet" />
 -->
 
 <br><br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caiosweet&show_icons=true&theme=gotham" alt="caiosweet" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosweet&hide=TeX&layout=compact&theme=gotham" alt="caiosweet" />
-
-  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosweet&langs_count=5&theme=gotham" alt="caiosweet" />
 
 
+
+<!-- ✨ _special_ ✨ -->
 [website]: https://hassiohelp.eu/
 [Websitebadge]: https://img.shields.io/website?down_message=Offline&label=HssioHelp&logoColor=blue&up_message=Online&url=https%3A%2F%2Fhassiohelp.eu
 
