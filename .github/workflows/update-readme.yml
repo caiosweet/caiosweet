@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: caiosweet/github-activity-readme@main
+      - uses: caiosweet/caiosweet@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
