@@ -4,6 +4,15 @@
 - ⚡ Fun fact: I'm not a programmer 😄
 - 📫 How to reach me: [![Websitebadge]][website] [![Forum][forumbadge]][forum] [![telegrambadge]][telegram] [![facebookbadge]][facebook] 
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
 
 <!--
 **caiosweet/caiosweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
