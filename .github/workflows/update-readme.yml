@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: GitHub README Activity Section Updater
-        uses: MadeByThePinsHub/github-activity-readme@v0.4.1-thepinsteam
+        uses: MadeByThePinsHub/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
