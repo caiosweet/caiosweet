@@ -3,7 +3,7 @@
 
 <!-- 🔭 I’m currently working on [DPC-Alert Integration configuration flow](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert) and [Package Natural Events](https://github.com/caiosweet/Package-Natural-Events) -->
 
-🔭 I’m currently working on [INGV Integration configuration flow](https://github.com/caiosweet/Home-Assistant-custom-components-INGV) and [Package Natural Events](https://github.com/caiosweet/Package-Natural-Events)
+🔭 I’m currently working on [Notifier - Centro Notifiche](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
 
 ⚡ Fun fact: I'm not a programmer 😄
 
