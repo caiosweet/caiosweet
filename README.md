@@ -16,6 +16,13 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#57](https://github.com/jumping2000/notifier/pull/57) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+2. 💪 Opened PR [#56](https://github.com/jumping2000/notifier/pull/56) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+3. 🚀 Published release [bump version 5.0.12](https://github.com/bump version 5.0.12) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+4. 🚀 Published release [Pre-release 5.0.11](https://github.com/Pre-release 5.0.11) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+5. 🚀 Published release [v5.0.10b sync with new notifier beta ](https://github.com/v5.0.10b sync with new notifier beta ) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+6. 💪 Opened PR [#55](https://github.com/jumping2000/notifier/pull/55) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+7. 💪 Opened PR [#54](https://github.com/jumping2000/notifier/pull/54) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
 <!--END_SECTION:activity-->
 
 ---
