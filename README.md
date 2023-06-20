@@ -16,13 +16,13 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/34) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-2. 💪 Opened PR [#34](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/34) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-3. 💪 Opened PR [#57](https://github.com/jumping2000/notifier/pull/57) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-4. 💪 Opened PR [#56](https://github.com/jumping2000/notifier/pull/56) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-5. 🚀 Published release [bump version 5.0.12](https://github.com/bump version 5.0.12) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-6. 🚀 Published release [Pre-release 5.0.11](https://github.com/Pre-release 5.0.11) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-7. 🚀 Published release [v5.0.10b sync with new notifier beta ](https://github.com/v5.0.10b sync with new notifier beta ) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+1. 🚀 Published release [Pre-release zip folder](https://github.com/Pre-release zip folder) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+2. 🎉 Merged PR [#35](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/35) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+3. 💪 Opened PR [#35](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/35) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+4. 🚀 Published release [Pre-release zip folder](https://github.com/Pre-release zip folder) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+5. 🎉 Merged PR [#34](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/34) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+6. 💪 Opened PR [#34](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/34) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+7. 💪 Opened PR [#57](https://github.com/jumping2000/notifier/pull/57) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
 <!--END_SECTION:activity-->
 
 ---
