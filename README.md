@@ -16,13 +16,13 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Specific folder](https://github.com/Specific folder) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-2. 🚀 Published release [:) daemon](https://github.com/:) daemon) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-3. 🚀 Published release [0.0.2](https://github.com/0.0.2) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-4. 🚀 Published release [test zip folder ](https://github.com/test zip folder ) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-5. 🚀 Published release [Zip folder](https://github.com/Zip folder) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-6. 🚀 Published release [!!!](https://github.com/!!!) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-7. 🚀 Published release [???](https://github.com/???) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+1. 🎉 Merged PR [#38](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/38) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+2. 💪 Opened PR [#38](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/38) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+3. 🎉 Merged PR [#37](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/37) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+4. 💪 Opened PR [#37](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/37) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+5. 🚀 Published release [Specific folder](https://github.com/Specific folder) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+6. 🚀 Published release [:) daemon](https://github.com/:) daemon) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+7. 🚀 Published release [0.0.2](https://github.com/0.0.2) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
 <!--END_SECTION:activity-->
 
 ---
