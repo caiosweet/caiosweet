@@ -16,13 +16,13 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/36) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-2. 💪 Opened PR [#36](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/36) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-3. 🚀 Published release [Pre-release zip folder](https://github.com/Pre-release zip folder) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-4. 🎉 Merged PR [#35](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/35) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-5. 💪 Opened PR [#35](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/35) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-6. 🚀 Published release [Pre-release zip folder](https://github.com/Pre-release zip folder) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-7. 🎉 Merged PR [#34](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/34) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+1. 🚀 Published release [test zip file](https://github.com/test zip file) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+2. 🎉 Merged PR [#36](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/36) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+3. 💪 Opened PR [#36](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/36) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+4. 🚀 Published release [Pre-release zip folder](https://github.com/Pre-release zip folder) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+5. 🎉 Merged PR [#35](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/35) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+6. 💪 Opened PR [#35](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/35) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+7. 🚀 Published release [Pre-release zip folder](https://github.com/Pre-release zip folder) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
 <!--END_SECTION:activity-->
 
 ---
