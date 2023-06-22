@@ -16,13 +16,13 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [test zip file](https://github.com/test zip file) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-2. 🎉 Merged PR [#36](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/36) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-3. 💪 Opened PR [#36](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/36) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-4. 🚀 Published release [Pre-release zip folder](https://github.com/Pre-release zip folder) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-5. 🎉 Merged PR [#35](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/35) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-6. 💪 Opened PR [#35](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/35) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-7. 🚀 Published release [Pre-release zip folder](https://github.com/Pre-release zip folder) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+1. 🚀 Published release [???](https://github.com/???) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+2. 🚀 Published release [dir](https://github.com/dir) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+3. 🚀 Published release [recursive true](https://github.com/recursive true) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+4. 🚀 Published release [test folder](https://github.com/test folder) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+5. 🚀 Published release [recursive test](https://github.com/recursive test) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+6. 🚀 Published release [permissions](https://github.com/permissions) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+7. 🚀 Published release [2023.06.02](https://github.com/2023.06.02) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
 <!--END_SECTION:activity-->
 
 ---
