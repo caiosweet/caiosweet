@@ -16,13 +16,13 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [???](https://github.com/???) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-2. 🚀 Published release [dir](https://github.com/dir) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-3. 🚀 Published release [recursive true](https://github.com/recursive true) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-4. 🚀 Published release [test folder](https://github.com/test folder) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-5. 🚀 Published release [recursive test](https://github.com/recursive test) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-6. 🚀 Published release [permissions](https://github.com/permissions) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-7. 🚀 Published release [2023.06.02](https://github.com/2023.06.02) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+1. 🚀 Published release [!!!](https://github.com/!!!) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+2. 🚀 Published release [???](https://github.com/???) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+3. 🚀 Published release [dir](https://github.com/dir) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+4. 🚀 Published release [recursive true](https://github.com/recursive true) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+5. 🚀 Published release [test folder](https://github.com/test folder) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+6. 🚀 Published release [recursive test](https://github.com/recursive test) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
+7. 🚀 Published release [permissions](https://github.com/permissions) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
 <!--END_SECTION:activity-->
 
 ---
