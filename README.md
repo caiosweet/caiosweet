@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/jumping2000/notifier/pull/59) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-2. 🎉 Merged PR [#39](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/39) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-3. 💪 Opened PR [#39](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/39) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-4. 🎉 Merged PR [#38](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/38) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-5. 💪 Opened PR [#38](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/38) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+1. 🎉 Merged PR [#40](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/40) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+2. 💪 Opened PR [#40](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/40) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+3. 💪 Opened PR [#59](https://github.com/jumping2000/notifier/pull/59) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+4. 🎉 Merged PR [#39](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/39) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+5. 💪 Opened PR [#39](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/39) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
 6. 🚀 Published release [:) daemon](https://github.com/:) daemon) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
 7. 🚀 Published release [0.0.2](https://github.com/0.0.2) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
 <!--END_SECTION:activity-->
