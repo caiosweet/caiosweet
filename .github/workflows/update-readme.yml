@@ -17,5 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "⚡ Update README with the recent activity"
-          MAX_LINES: 7
+          MAX_LINES: 5
           COMMIT_NAME: GitHub Activity Readme
