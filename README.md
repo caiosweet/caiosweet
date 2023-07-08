@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/43) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-2. 💪 Opened PR [#43](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/43) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-3. 🎉 Merged PR [#42](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/42) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-4. 💪 Opened PR [#42](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/42) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-5. 🎉 Merged PR [#41](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/41) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+1. 🗣 Commented on [#44](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/44) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+2. 🎉 Merged PR [#43](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/43) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+3. 💪 Opened PR [#43](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/43) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+4. 🎉 Merged PR [#42](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/42) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+5. 💪 Opened PR [#42](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/42) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
 6. 🚀 Published release [:) daemon](https://github.com/:) daemon) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
 7. 🚀 Published release [0.0.2](https://github.com/0.0.2) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
 <!--END_SECTION:activity-->
