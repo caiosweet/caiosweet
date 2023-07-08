@@ -16,13 +16,6 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/44) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-2. 🎉 Merged PR [#43](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/43) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-3. 💪 Opened PR [#43](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/43) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-4. 🎉 Merged PR [#42](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/42) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-5. 💪 Opened PR [#42](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/42) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-6. 🚀 Published release [:) daemon](https://github.com/:) daemon) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
-7. 🚀 Published release [0.0.2](https://github.com/0.0.2) in [caiosweet/ha-packages](https://github.com/caiosweet/ha-packages)
 <!--END_SECTION:activity-->
 
 ---
@@ -49,6 +42,15 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosweet&langs_count=5&theme=gotham" alt="caiosweet" />
 
+___
+
+$$\textbf{\color{#0099ff} \huge Enjoy Yourself \unicode{x1f973} Caio Sweet}$$
+
+<p align="center">
+<img src="https://github.com/caiosweet.png">
+<br><br>
+</p>
+
 <!-- ✨ _special_ ✨ -->
 [website]: https://hassiohelp.eu/
 [Websitebadge]: https://img.shields.io/website?down_message=Offline&label=HassioHelp&logoColor=blue&up_message=Online&url=https%3A%2F%2Fhassiohelp.eu
@@ -64,5 +66,4 @@ Here are some ideas to get you started:
 
 <!-- utility 
 profile views ![](https://komarev.com/ghpvc/?username=caiosweet&style=flat-square)
-
 -->
