@@ -17,10 +17,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#44](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/44) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-2. 🎉 Merged PR [#43](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/43) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-3. 💪 Opened PR [#43](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/43) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-4. 🎉 Merged PR [#42](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/42) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-5. 💪 Opened PR [#42](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/42) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+2. 🗣 Commented on [#44](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/44) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+3. 🎉 Merged PR [#43](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/43) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+4. 💪 Opened PR [#43](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/43) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+5. 🎉 Merged PR [#42](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/pull/42) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
 <!--END_SECTION:activity-->
 
 ---
