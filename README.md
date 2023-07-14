@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/44#issuecomment-1627652127) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-2. 🗣 Commented on [#44](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/44#issuecomment-1627648314) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-3. 🗣 Commented on [#44](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/44#issuecomment-1627646376) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-4. 🗣 Commented on [#44](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/44#issuecomment-1627643237) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-5. 🗣 Commented on [#44](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/44#issuecomment-1627061063) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+1. 🔒 Closed issue [#39](https://github.com/caiosweet/Package-Natural-Events/issues/39) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+2. 🗣 Commented on [#39](https://github.com/caiosweet/Package-Natural-Events/issues/39#issuecomment-1635269387) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+3. ❗ Opened issue [#40](https://github.com/caiosweet/Package-Natural-Events/issues/40) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+4. 🗣 Commented on [#44](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/44#issuecomment-1627652127) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+5. 🗣 Commented on [#44](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/44#issuecomment-1627648314) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
 <!--END_SECTION:activity-->
 
 ---
