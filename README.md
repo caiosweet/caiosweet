@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/caiosweet/Package-Natural-Events/issues/42#issuecomment-1657825264) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
-2. 🗣 Commented on [#41](https://github.com/caiosweet/Package-Natural-Events/issues/41#issuecomment-1651692661) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
-3. 🗣 Commented on [#64](https://github.com/jumping2000/notifier/issues/64#issuecomment-1650410933) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-4. 🔒 Closed issue [#39](https://github.com/caiosweet/Package-Natural-Events/issues/39) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
-5. 🗣 Commented on [#39](https://github.com/caiosweet/Package-Natural-Events/issues/39#issuecomment-1635269387) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+1. 🔒 Closed issue [#41](https://github.com/caiosweet/Package-Natural-Events/issues/41) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+2. 🗣 Commented on [#43](https://github.com/caiosweet/Package-Natural-Events/issues/43#issuecomment-1665838372) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+3. 🔒 Closed issue [#43](https://github.com/caiosweet/Package-Natural-Events/issues/43) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+4. 🚀 Published release [Fixed Burze automation.](https://github.com/caiosweet/Package-Natural-Events/releases/tag/2023.8.0) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+5. 🗣 Commented on [#42](https://github.com/caiosweet/Package-Natural-Events/issues/42#issuecomment-1657825264) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
 <!--END_SECTION:activity-->
 
 ---
