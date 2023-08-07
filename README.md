@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#41](https://github.com/caiosweet/Package-Natural-Events/issues/41) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
-2. 🗣 Commented on [#43](https://github.com/caiosweet/Package-Natural-Events/issues/43#issuecomment-1665838372) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
-3. 🔒 Closed issue [#43](https://github.com/caiosweet/Package-Natural-Events/issues/43) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
-4. 🚀 Published release [Fixed Burze automation.](https://github.com/caiosweet/Package-Natural-Events/releases/tag/2023.8.0) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
-5. 🗣 Commented on [#42](https://github.com/caiosweet/Package-Natural-Events/issues/42#issuecomment-1657825264) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+1. 🗣 Commented on [#40](https://github.com/caiosweet/Package-Natural-Events/issues/40#issuecomment-1667979011) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+2. 🔒 Closed issue [#41](https://github.com/caiosweet/Package-Natural-Events/issues/41) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+3. 🗣 Commented on [#43](https://github.com/caiosweet/Package-Natural-Events/issues/43#issuecomment-1665838372) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+4. 🔒 Closed issue [#43](https://github.com/caiosweet/Package-Natural-Events/issues/43) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
+5. 🚀 Published release [Fixed Burze automation.](https://github.com/caiosweet/Package-Natural-Events/releases/tag/2023.8.0) in [caiosweet/Package-Natural-Events](https://github.com/caiosweet/Package-Natural-Events)
 <!--END_SECTION:activity-->
 
 ---
