@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/25#issuecomment-1756103414) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-2. 🗣 Commented on [#26](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/26#issuecomment-1756077448) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-3. 🗣 Commented on [#25](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/25#issuecomment-1755979328) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-4. 🎉 Merged PR [#24](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/pull/24) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-5. 🗣 Commented on [#59](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/59#issuecomment-1755964455) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
+1. 🗣 Commented on [#25](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/25#issuecomment-1756223534) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+2. 🗣 Commented on [#25](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/25#issuecomment-1756103414) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+3. 🗣 Commented on [#26](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/26#issuecomment-1756077448) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+4. 🗣 Commented on [#25](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/25#issuecomment-1755979328) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+5. 🎉 Merged PR [#24](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/pull/24) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
 <!--END_SECTION:activity-->
 
 ---
