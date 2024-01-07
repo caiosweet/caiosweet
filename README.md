@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/60#issuecomment-1837228248) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
-2. 🗣 Commented on [#60](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/60#issuecomment-1837225011) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
-3. 🗣 Commented on [#60](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/60#issuecomment-1836561121) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
-4. 🗣 Commented on [#45](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/45#issuecomment-1822357751) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
-5. 🗣 Commented on [#45](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/45#issuecomment-1822277043) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+1. 🗣 Commented on [#67](https://github.com/jumping2000/notifier/issues/67#issuecomment-1880042524) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+2. 🗣 Commented on [#67](https://github.com/jumping2000/notifier/issues/67#issuecomment-1880041160) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+3. 🗣 Commented on [#67](https://github.com/jumping2000/notifier/issues/67#issuecomment-1880037843) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+4. 🗣 Commented on [#60](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/60#issuecomment-1837228248) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
+5. 🗣 Commented on [#60](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/60#issuecomment-1837225011) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
 <!--END_SECTION:activity-->
 
 ---
