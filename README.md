@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/caiosweet/Home-Assistant-custom-components-NASA/issues/6#issuecomment-1951394352) in [caiosweet/Home-Assistant-custom-components-NASA](https://github.com/caiosweet/Home-Assistant-custom-components-NASA)
-2. 🚀 Published release [First release zip file](https://github.com/caiosweet/Home-Assistant-custom-components-NASA/releases/tag/2024.02.0) in [caiosweet/Home-Assistant-custom-components-NASA](https://github.com/caiosweet/Home-Assistant-custom-components-NASA)
-3. 🚀 Published release [Fix deprecated constant and updated library version](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/releases/tag/2024.02.0) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-4. 🎉 Merged PR [#28](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/pull/28) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-5. 🎉 Merged PR [#29](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/pull/29) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+1. 🗣 Commented on [#27](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/27#issuecomment-1951395184) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+2. 🔒 Closed issue [#27](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/27) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+3. 🗣 Commented on [#6](https://github.com/caiosweet/Home-Assistant-custom-components-NASA/issues/6#issuecomment-1951394352) in [caiosweet/Home-Assistant-custom-components-NASA](https://github.com/caiosweet/Home-Assistant-custom-components-NASA)
+4. 🚀 Published release [First release zip file](https://github.com/caiosweet/Home-Assistant-custom-components-NASA/releases/tag/2024.02.0) in [caiosweet/Home-Assistant-custom-components-NASA](https://github.com/caiosweet/Home-Assistant-custom-components-NASA)
+5. 🚀 Published release [Fix deprecated constant and updated library version](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/releases/tag/2024.02.0) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
 <!--END_SECTION:activity-->
 
 ---
