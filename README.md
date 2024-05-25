@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/27#issuecomment-1951395184) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-2. 🔒 Closed issue [#27](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/27) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-3. 🗣 Commented on [#6](https://github.com/caiosweet/Home-Assistant-custom-components-NASA/issues/6#issuecomment-1951394352) in [caiosweet/Home-Assistant-custom-components-NASA](https://github.com/caiosweet/Home-Assistant-custom-components-NASA)
+1. 🗣 Commented on [#61](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/61#issuecomment-2131149179) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
+2. 🔒 Closed issue [#61](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/61) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
+3. 🚀 Published release [Fixed: calls async_add_job](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/releases/tag/v2024.5.0) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
 4. 🚀 Published release [First release zip file](https://github.com/caiosweet/Home-Assistant-custom-components-NASA/releases/tag/2024.02.0) in [caiosweet/Home-Assistant-custom-components-NASA](https://github.com/caiosweet/Home-Assistant-custom-components-NASA)
 5. 🚀 Published release [Fix deprecated constant and updated library version](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/releases/tag/2024.02.0) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
 <!--END_SECTION:activity-->
