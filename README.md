@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/61#issuecomment-2131149179) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
-2. 🔒 Closed issue [#61](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/61) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
-3. 🚀 Published release [Fixed: calls async_add_job](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/releases/tag/v2024.5.0) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
-4. 🚀 Published release [First release zip file](https://github.com/caiosweet/Home-Assistant-custom-components-NASA/releases/tag/2024.02.0) in [caiosweet/Home-Assistant-custom-components-NASA](https://github.com/caiosweet/Home-Assistant-custom-components-NASA)
-5. 🚀 Published release [Fix deprecated constant and updated library version](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/releases/tag/2024.02.0) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+1. 🗣 Commented on [#68](https://github.com/jumping2000/notifier/issues/68#issuecomment-2131369556) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+2. 🎉 Merged PR [#21](https://github.com/caiosweet/notifier/pull/21) in [caiosweet/notifier](https://github.com/caiosweet/notifier)
+3. 💪 Opened PR [#21](https://github.com/caiosweet/notifier/pull/21) in [caiosweet/notifier](https://github.com/caiosweet/notifier)
+4. 🗣 Commented on [#61](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/61#issuecomment-2131149179) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
+5. 🔒 Closed issue [#61](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/61) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
 <!--END_SECTION:activity-->
 
 ---
