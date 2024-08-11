@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fix "platform" in square brackets](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/releases/tag/v2024.7.1) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
-2. 🗣 Commented on [#62](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/62#issuecomment-2211866985) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
-3. 🔒 Closed issue [#62](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/62) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
-4. 🚀 Published release [Fixed async_forward_entry_setup](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/releases/tag/v2024.7.0) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
-5. 🗣 Commented on [#46](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon/issues/46#issuecomment-2143607270) in [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon)
+1. 🗣 Commented on [#31](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/31#issuecomment-2282666179) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+2. 🔒 Closed issue [#31](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/31) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+3. 🚀 Published release [Updated image url pattern](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/releases/tag/2024.08.0) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+4. 🚀 Published release [Fix "platform" in square brackets](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/releases/tag/v2024.7.1) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
+5. 🗣 Commented on [#62](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/issues/62#issuecomment-2211866985) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
 <!--END_SECTION:activity-->
 
 ---
