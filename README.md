@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2453](https://github.com/alandtse/alexa_media_player/issues/2453#issuecomment-2308816522) in [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player)
-2. 🗣 Commented on [#2453](https://github.com/alandtse/alexa_media_player/issues/2453#issuecomment-2291602632) in [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player)
-3. 🗣 Commented on [#31](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/31#issuecomment-2282666179) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-4. 🔒 Closed issue [#31](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/31) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-5. 🚀 Published release [Updated image url pattern](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/releases/tag/2024.08.0) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+1. 🗣 Commented on [#32](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/32#issuecomment-2308856476) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+2. 🗣 Commented on [#2453](https://github.com/alandtse/alexa_media_player/issues/2453#issuecomment-2308816522) in [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player)
+3. 🗣 Commented on [#2453](https://github.com/alandtse/alexa_media_player/issues/2453#issuecomment-2291602632) in [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player)
+4. 🗣 Commented on [#31](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/31#issuecomment-2282666179) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+5. 🔒 Closed issue [#31](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/31) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
 <!--END_SECTION:activity-->
 
 ---
