@@ -16,11 +16,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2453](https://github.com/alandtse/alexa_media_player/issues/2453#issuecomment-2291602632) in [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player)
-2. 🗣 Commented on [#31](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/31#issuecomment-2282666179) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-3. 🔒 Closed issue [#31](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/31) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-4. 🚀 Published release [Updated image url pattern](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/releases/tag/2024.08.0) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
-5. 🚀 Published release [Fix "platform" in square brackets](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert/releases/tag/v2024.7.1) in [caiosweet/Home-Assistant-custom-components-DPC-Alert](https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert)
+1. 🗣 Commented on [#2453](https://github.com/alandtse/alexa_media_player/issues/2453#issuecomment-2308816522) in [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player)
+2. 🗣 Commented on [#2453](https://github.com/alandtse/alexa_media_player/issues/2453#issuecomment-2291602632) in [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player)
+3. 🗣 Commented on [#31](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/31#issuecomment-2282666179) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+4. 🔒 Closed issue [#31](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/issues/31) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
+5. 🚀 Published release [Updated image url pattern](https://github.com/caiosweet/Home-Assistant-custom-components-INGV/releases/tag/2024.08.0) in [caiosweet/Home-Assistant-custom-components-INGV](https://github.com/caiosweet/Home-Assistant-custom-components-INGV)
 <!--END_SECTION:activity-->
 
 ---
